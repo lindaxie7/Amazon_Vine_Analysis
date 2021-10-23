@@ -14,6 +14,7 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 - How many Vine reviews and non-Vine reviews were there?
 
 total number of Vine reviews:
+![Untitled](https://user-images.githubusercontent.com/38533045/138540530-7ca57aca-db83-4e5c-a01f-d981f5c3ef0b.png)
 
 
 total number of non-Vine reviews:
