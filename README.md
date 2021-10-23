@@ -24,6 +24,7 @@ total number of non-Vine reviews:
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 total number of 5 stars Vine reviews:
+![Untitled2](https://user-images.githubusercontent.com/38533045/138540561-2e9b75c1-8fe8-406d-ab16-fc6defbef11a.png)
 
 
 total number of 5 stars non-Vine reviews:
