@@ -1,17 +1,21 @@
 # Amazon_Vine_Analysis
 
 ## Overview of Project
+Explain the purpose of this analysis.
 
 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- How many Vine reviews and non-Vine reviews were there?
 
-- What can you conclude about the Outcomes based on Goals?
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-- What are some limitations of this dataset?
+- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-- What are some other possible tables and/or graphs that we could create?
+
 
 ## Summary
+In your summary, state if there is any positivity bias for reviews in the Vine program. 
+
+provide one additional analysis that you could do with the dataset to support your statement.
