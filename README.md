@@ -12,6 +12,7 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 ## Results
 
 - How many Vine reviews and non-Vine reviews were there?
+
 total number of Vine reviews:
 
 
@@ -19,6 +20,7 @@ total number of non-Vine reviews:
 
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 total number of 5 stars Vine reviews:
 
 
@@ -26,6 +28,7 @@ total number of 5 stars non-Vine reviews:
 
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 percentage of 5 stsars Vine reviews:
 
 
