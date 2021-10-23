@@ -38,6 +38,7 @@ percentage of 5 stsars Vine reviews:
 
 
 percentage of 5 stars of non-Vine reviews:
+![Untitled5](https://user-images.githubusercontent.com/38533045/138540617-e74e7207-a227-4be7-8683-8809199e3674.png)
 
 
 
