@@ -28,6 +28,7 @@ total number of 5 stars Vine reviews:
 
 
 total number of 5 stars non-Vine reviews:
+![Untitled3](https://user-images.githubusercontent.com/38533045/138540578-36eff478-76d5-4805-a3e7-fc12bc5dfa41.png)
 
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
